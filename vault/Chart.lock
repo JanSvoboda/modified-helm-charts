@@ -1,0 +1,6 @@
+dependencies:
+- name: vault
+  repository: https://charts.bitnami.com/bitnami
+  version: 1.0.4
+digest: sha256:e0f8d0a88a43f1d31c9b51777c17abe02b3c0de3c7e89d9e71644cd3be5e087e
+generated: "2024-05-04T14:00:55.39811+02:00"
